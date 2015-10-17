@@ -4,22 +4,28 @@
 </p>
 <br/>
 
-# Nombre del proyecto
+# plasma
 
 ## Fecha
-* 
+
+* 2004
 
 ## Descripcion del proyecto
-* 
+
+* Fabricacion de equipo de corte por plasma
 
 ## Herramientas utilizadas
-* 
+
+* Paint
 
 ## Modelos de PLC, etc.
-* 
+
+* PLC Moeller Easy 412-DC-RC
 
 ## Autores
-* 
+
+* predrohermon
 
 ## Comentarios
-* 
+
+* Ninguno

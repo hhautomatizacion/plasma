@@ -10,6 +10,8 @@
 
 * Fotos
 
-* Foyetos
-
 * Capturas de pantalla
+
+![FOTO OSCILADOR](/Fotos/FOTO OSCILADOR.JPG)
+![REPLICA](/Fotos/REPLICA.JPG)
+![FOTO FILTRO PLASMA](/Fotos/FOTO FILTRO PLASMA.JPG)
