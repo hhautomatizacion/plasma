@@ -14,11 +14,20 @@
 
 * Dibujos
 
-![HOJA1](/Diagramas/HOJA1.jpg)
-![HOJA2](/Diagramas/HOJA2.jpg)
-![HOJA3](/Diagramas/HOJA3.jpg)
-![HOJA4](/Diagramas/HOJA4.jpg)
-![HOJA5](/Diagramas/HOJA5.jpg)
-![HOJA6](/Diagramas/HOJA6.jpg)
-![HOJA7](/Diagramas/HOJA7.jpg)
-![PRESENTACION](/Diagramas/PRESENTACION.jpg)
+---
+![HOJA1.jpg](/Diagramas/HOJA1.jpg)
+---
+![HOJA2.jpg](/Diagramas/HOJA2.jpg)
+---
+![HOJA3.jpg](/Diagramas/HOJA3.jpg)
+---
+![HOJA4.jpg](/Diagramas/HOJA4.jpg)
+---
+![HOJA5.jpg](/Diagramas/HOJA5.jpg)
+---
+![HOJA6.jpg](/Diagramas/HOJA6.jpg)
+---
+![HOJA7.jpg](/Diagramas/HOJA7.jpg)
+---
+![PRESENTACION.jpg](/Diagramas/PRESENTACION.jpg)
+---
