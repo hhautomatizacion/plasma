@@ -24,7 +24,7 @@
 
 ## Autores
 
-* predrohermon
+* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="https://avatars3.githubusercontent.com/u/15159556?v=4" height="32" width="32">
 
 ## Comentarios
 
@@ -47,9 +47,9 @@
 ---
 ![PRESENTACION.jpg](/Diagramas/PRESENTACION.jpg)
 ---
-![FOTO FILTRO PLASMA.JPG](/Fotos/FOTO FILTRO PLASMA.JPG)
+![FOTO FILTRO PLASMA.JPG](/Fotos/FOTO%20FILTRO%20PLASMA.JPG)
 ---
-![FOTO OSCILADOR.JPG](/Fotos/FOTO OSCILADOR.JPG)
+![FOTO OSCILADOR.JPG](/Fotos/FOTO%20OSCILADOR.JPG)
 ---
 ![REPLICA.JPG](/Fotos/REPLICA.JPG)
 ---
